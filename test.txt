@@ -1,5 +1,2 @@
 This is test file
 hello world
-hi this is praneeth
-hello
-
